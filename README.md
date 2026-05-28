@@ -21,7 +21,8 @@ Intégration de liens vers des projets hébergés sur GitHub, notebooks, et dash
 Objectifs pour le recruteur : Montrer ma compréhension complète des attentes et contraintes du client.
 Description : Document détaillant les besoins exprimés par AéroWorld, leurs enjeux et les spécifications initiales.
 Fichier livrable : PDF analyse_besoin_client.pdf
-
+ [Consulter le document](portfolio-aeroworld/docs/Analyse_des_besoins_metiers_Aeroworld_Mohammed_Abbakar.pdf)
+ 
 ### 2. Cahier des charges du projet
 Objectifs pour le recruteur : Présenter une synthèse claire des objectifs, périmètre et livrables du projet.
 Description : Document formalisant les attentes, les indicateurs clés et le planning prévisionnel.
