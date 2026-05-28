@@ -33,6 +33,8 @@ Objectifs pour le recruteur : Visualiser l’organisation temporelle du projet e
 Description : Diagramme interactif présentant les jalons, les dépendances et l’avancement.
 Fichiers livrables : Fichier Power BI .pbix contenant le diagramme gantt.pbix
 
+![Carte mentale](portfolio-aeroworld/docs/carte.png)
+
 ### 4. Dashboard Veille (Power BI)
 Objectifs pour le recruteur : Illustrer ma capacité à créer des tableaux de bord dynamiques de suivi et analyse.
 Description : Dashboard de veille sectorielle permettant une surveillance en temps réel des indicateurs clés.
